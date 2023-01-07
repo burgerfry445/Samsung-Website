@@ -1,0 +1,210 @@
+<HTML>
+echo "# Samsung-Website" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/burgerfry445/Samsung-Website.git
+git push -u origin main
+<HEAD>
+<TITLE>Samsung Corporation</TITLE>
+</HEAD>
+<META NAME="DESCRIPTION" content="Website about Samsung made by me, Yajur">
+<META NAME="KEYWORDS" CONTENT="samsung, history">
+<BODY BGCOLOR="#306eff">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+	<span class="material-symbols-outlined">
+power_settings_new
+</span>
+
+<H1><CENTER><FONT FACE="MONACO"><MARQUEE><FONT COLOR="#f7f7ff">Samsung Corporation</FONT></MARQUEE></FONT></CENTER></H1>
+<HR SIZE=6 WIDTH=50%>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMOm6-TJSdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<H3><CENTER><FONT FACE="MONACO"><FONT COLOR="#f7f7ff">Samsung Facts</FONT></FONT></CENTER></H3>
+<UL><font face="monaco"><FONT SIZE=3>
+	<FONT COLOR="#f7f7ff"><LI>Samsung started as a grocer selling dried noodles and vegetables<LI>Samsung's first electronic was a tv<LI>Samsung has over 3000000 employees. More than Google, Apple, and Nokia combined<LI>Samsung has gone through many iterations of their logo<LI>Samsung means three stars<LI>Samsung has sold over 2 million of just their Galaxy smartphones<LI>Samsung started on January 13, 1969<LI>Samsung is worth $30093106680 today<LI>Samsung makes more than just phones, they make washers and dryers, planes, toilet seats, boats, and cars, and they even have a basketball team and a theme park in South Korea<LI>Samsung has a construction division that helped build the Burj Khalifa </UL>
+	
+	
+	
+	
+	
+	
+	
+<IMG SRC="https://fdn.gsmarena.com/imgroot/news/15/08/samsungs-history/inline/inline3/gsmarena_003.jpg" BORDER=#f7f7ff
+<<H2><CENTER><FONT FACE="MONACO"><FONT COLOR="#f7f7ff">The History of Samsung</FONT></FONT></CENTER></H2>
+<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO"> Samsung is one of the largest electronics manufacturers in the world. Yet, its history doesn't even start in electronics. Samsung was created on January 13, 1969, by Lee Byung-Chul. Samsung started as a grocer in South Korea selling noodles and dried fish. Samsung made its first-ever black and white TV in 1969. In the 1970s, Samsung expanded its business to petrochemicals and even partnered with BP to create Samsung BP Chemicals. They further expanded their business into home appliances such as refrigerators, washing machines, and microwaves. Samsung went deeper into TVs, made the first digital colour TV, and created VCRs, Blu-Ray players, tape recorders, and MP3 players. Samsung created their first phone in the 1980s, with their first phone not working and the entire stock being burned down by Lee Byung-Chul, making Samsung take mobile phones seriously. Samsung also invested in storage devices, such as Compact Flash, and processors, which are still a big part of Samsung's market to this day.              </FONT></I></CENTER></P>
+<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO">In 2010, Samsung created their first flagship Android phone called the Galaxy S. The Galaxy S sold 1 million units within the first 45 days. This lead on for Samsung to continue creating new phones in the S series, and currently sell the S series, the A series, the M series, and the Z series. Samsung's main headquarters is located in South Korea, and is called Samsung Digital City. Samsung Digital City has an entire studio for creating their iconic ringtones and the popular Over The Horizon. They do extensive research and tests for the durability of their phones. Samsung hit the world record for the largest TV, at 102". Samusung uses Android today, but had their own operating system for a while, which was called Bada OS. Bada ran on the Samsung Wave and was a complete flop due to lack of applications, making Samsung switch back to Android. Samsung today makes phones and appliances in US, but make buildings, planes, cars, and toilet seats in South Korea. Samsung has a basketball team, life insurance, an EA sports team, and an entire amusement park.  </FONT></I></CENTER></P>
+
+<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO">Samsung is also not afraid to experiment and innovate. Samsung created the Beam Series, a phone with a built in projector, which was THICC. They also created the first foldable phone and folded hotdog style, the Galaxy Fold, which was also THICC, which although had an initial fatal flaw where the attatched film on the screen was removed and damaged the phones. However, Samsung has continued to release new foldable phones including the new Z Flip, which folded hamburger style and sold very well</FONT></I></CENTER></P>
+<A HREF="https://www.gsmarena.com/samsung_galaxy_z_flip4-11538.php"><IMG SRC="https://media.cnn.com/api/v1/images/stellar/prod/210826153333-galaxy-z-flip-3-product-card-image.jpg?q=x_0,y_72,h_2768,w_4920,c_crop/h_270,w_480"ALIGN=LEFT> </A>
+<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO">The company is working on a new smartphone which can roll out and become a tablet, or roll in to become a phone, while staying at one thickness and not using a hinge. Although Apple and Samsung are rivals, they actually need eachother. 'smsung sells displays, processors, storage, and cameras to Apple, and Apple increases profit by buying these products. A quarter of an iPhone is made of Samsung's products. </FONT></I></CENTER></P><BR CLEAR=LEFT>
+<P><CENTER><FONT COLOR="#f7f7ff"><B><I><FONT SIZE=3><FONT FACE="MONACO">
+	
+<IMG SRC="https://i.pinimg.com/originals/66/36/91/6636911b49ac66fe1462091ba029e02b.jpg"
+	
+Fun Facts </FONT></I></B></CENTER></P>
+
+<FONT COLOR="#f7f7ff"><OL> <LI>A quarter of an Apple iPhone is manufactured by Samsung<LI>Samsung has experimented many times with different bogus concepts for phones, like the Beam<LI>Samsung owns Harman-Kardon, which owns JBL and AKG<LI>Samsung has sold over 2,000,000 phones alone<LI>Samsung has their own voice assistant called Bixby, which although failing at first, is not to shabby today </OL>
+	<input type="button" value="Email List" onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ','popUpWindow','height=500,width=400,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');">
+	
+	
+<BR>
+<A HREF="https://www.apple.com"><IMG SRC="https://img.izismile.com/img/img12/20190606/640/internet_receives_new_ridiculously_overpriced_apple_releases_with_a_memestorm_640_high_19.jpg"> </A>
+<BR>
+<A HREF="https://www.samsung.com/us/"><IMG SRC="https://miro.medium.com/max/1200/0*Owr7QxPoLOGnC44c."> </A>
+<HR SIZE=9>
+<A LINK="#c3fb17" VLINK="#f67dfa" HREF="https://www.samsung.com/us/">Samsung Official US Website  </A>
+<p><center><font face="monaco"><font size=3> Info taken from 
+	<a href="https://www.phonearena.com">PhoneArena</a
+
+<A HREF="mailto:begula44445@icloud.com"> Click to contact me through email, Yajur Duddala </A>
+<BR>
+<hr size=6>
+<H1><marquee><FONT COLOR="#f7f7ff"> Galaxy S Phones</H1></FONT></marquee>
+
+<HR SIZE=10>
+<H2><FONT COLOR="#f7f7ff">Galaxy S</H2></FONT>
+<IMG SRC="https://m-cdn.phonearena.com/images/phones/20579-940/Samsung-Galaxy-S.jpg"ALIGN=CENTER
+<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO"> This is the first flagship Android phone by Samsung. The Galaxy S was launched in June 2010 and launched as a big hit, selling millions. This phone has a 4 inch 800x400 pixel display, a 5 megapixel rear camera, and a 0.3 megapixel front camera. It has 0.5 GB of RAM, 16 GB of storage, which was expandable using a microSD card, a 1500mAh battery, and ran Android 2.3.5.</CENTER></FONT></P>
+	<BR>
+	<hr size=6>
+	<H2><FONT COLOR="#f7f7ff">Galaxy SII</H2></FONT>
+	<IMG SRC="https://m-cdn.phonearena.com/images/phones/26908-800/Samsung-Galaxy-S-II.webp"ALIGN=CENTER
+	<P><CENTER><FONT COLOR="#f7f7ff"><FONT SIZE=3><FONT FACE="MONACO"> Following the grand launch and sucess of the Galaxy S, Samsung stepped it up a notch with the Galaxy S2, launched in April of 2011. The Galaxy S has a 4.3 inch 800x400 pixel AMOLED display, an 8 megapixel rear camera and a 2 megapixel front camera, a Samsung Exynos 4 Dual Core chip with 1 GB of RAM, 32 Gb of storage with expandable storage via microSDHC, a 1650 mAh battery, and ran Android 4.1.2.</CENTER></FONT></P>
+		<BR>
+		<hr size=6>
+		<H2><FONT COLOR="#f7f7ff">Galaxy SIII</H2></FONT>
+		<IMG SRC="https://m-cdn.phonearena.com/images/phones/36184-800/Samsung-Galaxy-S-III.webp"
+		<P><CENTER><FONT COLOR="#f7f7ff"><FONT SIZE=3><FONT FACE="MONACO"> At this point, Samsung was onto something. In May of 2012, Samsung launched the Galaxy S3. The Galaxy had a larger 4.8 inch screen with a clearer 1280x720 Super AMOLED display, an 8 megapixel rear camera and an upgraded 1.9 megapixel front camera, Samsung Exynos Quad Core chipset with 1 GB of RAM, 32 GB of storage expandable via microSDXC, a new 2100 mAh battery, and ran Android 4.3 with Samsung TouchWiz UI Skin.
+			<BR></B>
+			<hr size=6>
+			<H2><CENTER><FONT COLOR="#f7f7ff"><B><FONT FACE="MONACO">Galaxy S4</H2></CENTER></FONT></B>
+			<IMG SRC="https://m.media-amazon.com/images/I/517W1ZUu+bL._AC_SY580_.jpg"ALIGN=LEFT>
+			<P><CENTER><FONT COLOR="#f7f7ff"><I><FONT SIZE=3><FONT FACE="MONACO">The Samsung Galaxy S4 was launhed in 2013. It had a larger 5 inch 1028x1080p HD AMOLED display. It had an improved 13 megapixel rear camera and a 2 megapixel front camera, a new 2600 mAh battery, a 64 GB storage with expandable storage using microSDXC, and had a new Qualcomm SNapdragon 600 with 2 GB RAM.</P></CENTER></FONT></I>
+			<hr size=10>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<hr size=6>
+			
+			<H2><CENTER><B><FONT COLOR="#f7f7ff"><FONT FACE="MONACO">Galaxy S5</H2></CENTER></FONT></B>
+			<img src="https://m-cdn.phonearena.com/images/phones/45741-800/Samsung-Galaxy-S5.webp">
+			
+			<P><CENTER><FONT FACE="MONACO"><FONT COLOR="#f7f7ff"><FONT SIZE=3> With a 5.1" 1080p screen, 16 MP camera and 2 GB of RAM, the Galaxy S5 might not be the utmost specs beast that the Android world has to offer, but it comes with plenty of new features, both in comparison with its predecessor, the S4, and when measured up to the other flagships. The heart beat sensor, for instance, is unique for the Galaxy S5, while something like the Finger Scanner can also be observed on the iPhone 5s, but in a rather different implementation. Samsung also introduced two new launch colors, including Copper Gold, and a brand new perforated design for the rear cover. The addition of Snapdragon 801 chipset brings on LTE-A download speeds, and 4K video recording, to an already superb handset.</p></font>
+				<hr size=10>
+				<br>
+				<hr size=6>
+				<h2><center><FONT COLOR="#f7f7ff"><b><font face="monaco"> Galaxy S6 and S6 Edge</h2></center></b></font>
+					<img src="https://m-cdn.phonearena.com/images/phones/51963-800/Samsung-Galaxy-S6-edge.webp">
+					<P><center><FONT COLOR="#f7f7ff"><i><font face="monaco"><font size=3>The Samsung Galaxy S6 edge is powered by an octa-core Samsung-made chip built on a 14 nm node, complemented by an ARM Mali-T760 GPU. As for the rest of the specs, we're looking at a 5.1-inch Super AMOLED display with a super high resolution of 1440 x 2560 (577 ppi), 3GB of RAM, a choice between 32 GB, 64 GB, or 128 GB of internal storage, a 16-megapixel rear camera with a wider F1.9 aperture, and a 5-megapixel front-facing selfie snapper.</p></i></font>
+						<br>
+						<hr size=6>
+						<h2><center><FONT COLOR="#f7f7ff">><b><i><font face="monaco"> Galaxy S7 and S7 Edge</h2></b></i></font>
+							<br>
+							<img src="https://m-cdn.phonearena.com/images/phones/60651-800/Samsung-Galaxy-S7.webp"
+							<br>
+							<hr size=6>
+					
+							<p><font size=3><FONT COLOR="#f7f7ff"><font face="monaco"><i>The Samsung Galaxy S7 features a 5.1-inch Quad HD Super AMOLED screen, Qualcomm's most powerful Snapdragon 820 system chip under the hood and a brand new 12-megapixel camera with low light superpowers. All of that runs on a new edition of TouchWiz on top of Android 6 Marshmallow. And yes, the microSD card slot is back: you can use a card of up to 200GB onf the S7. The Galaxy S7 also has a very large, 3000mAh battery and it adds IP68 water resistance.</p></font></i>
+							<br>
+							<hr size=6>
+							<h2><center><FONT COLOR="#f7f7ff"><font face="monaco">Galaxy S8 and S8+</h2></font></center>
+							<img src=https://m-cdn.phonearena.com/images/phones/66417-800/Samsung-Galaxy-S8.webp
+							<br>
+							<p><center<FONT COLOR="#f7f7ff">><i><font face="monaco"><font size=3>With the Samsung Galaxy S8, Samsung is aiming to set a new benchmark, defining what a modern smartphone should look and feel like. Without a doubt, the most striking feature of the device is its curved Infinity Display that visually stretches from edge to edge. The screen is also taller, allowing the phone to be manageable in one hand, all while providing plentiful display space. Like it or not, the physical buttons have been replaced with on-screen ones, while the fingerprint scanner has been re-positioned on the back. The camera is similar to the one on the Galaxy S7, but the improved software allows the phone to deliver better photos by stitching areas of multiple frames together. On the hardware front, the Snapdragon 835 provides plenty of processing power, all while being more energy efficient than its predecessors.</p></center></font></I>
+								<br>
+								<hr size=6>
+								<h2><center><FONT COLOR="#f7f7ff"><b><FONT COLOR="#f7f7ff"><font face="monaco">Galaxy S9 and S9+</h2></b>
+						
+									<br>
+									<img src="https://m-cdn.phonearena.com/images/phones/71123-800/Samsung-Galaxy-S9.webp">
+									<br>
+									<p<FONT COLOR="#f7f7ff">><center><FONT COLOR="#f7f7ff"><font face="monaco"><font size=3><i>The Samsung Galaxy S9 is the company's flagship smartphone for 2018. As such, it comes with a top-notch specs sheet and a design to match. The phone adopts the near-bezelless construction and Infinity Display design of its predecessor, adding a couple of new colors to the mix. Key stand-out features include the upgraded camera with variable aperture, 960fps super slow-motion videos, and AR emoji. In addition, the Galaxy S9 brings stereo speakers and a fingerprint scanner placed below the camera.</p></i></font></center>
+									<br>
+									<h2><center><b><FONT COLOR="#f7f7ff"><i><font face="monaco"><font size=12>Galaxy S10e, S10, S10+ and S10 FE</h2></b></center></font>
+										<hr size=6>
+										<br>
+										<img src="https://m-cdn.phonearena.com/images/phones/75312-800/Samsung-Galaxy-S10.webp">
+										<br>
+										<p><i><font face="monaco"><FONT COLOR="#f7f7ff"><font size=3><center>Samsung's flagship for 2019, the Galaxy S10, matches its powerful hardware with the fresh OneUI interface. This thin and light phone is powered by the powerful Snapdragon 855/Exynos 9820 chips and has heaps of memory for your multitasking needs - a whopping 8GB, accompanied by 128 or 512GB versions. Design-wise, the Galaxy S10 sets itself apart from the previous generation with its offset punch-hole 10MP selfie camera, which is capable of capturing stabilized 4K footage. The camera is the only thing interrupting the gorgeous 6.1-inch OLED display. The cameras at the back are three - the regular 12MP is joined by a 12MP telephoto and a 16MP wide-angle one, a first for the Galaxy S series. The S10 is available in Prism White, Prism Black, Prism Green, and Prism Blue, with prices starting at $899.</p></font></center></i>
+										<br>
+										<hr size=6>
+										<h2><center><FONT COLOR="#f7f7ff"><font face="monaco"> Galaxy S20, S20 Ultra, and S20 FE</h2></font></center>
+											<br>
+											<img src="https://m-cdn.phonearena.com/images/phones/78190-800/Samsung-Galaxy-S20.webp">\<br>
+											<p><center><FONT COLOR="#f7f7ff"><font face="monaco"><font size=3>Samsung Galaxy S20, the smallest of the S20 family, comes with a 6.2-inch display. Under the hood is Snapdragon 865/Exynos 990 chipset with 12GB RAM and 128GB storage. The phone is powered by a 4000mAh battery. On the back is situated triple-camera setup: 12MP main sensor, one telephoto, and one ultra-wide camera. The price of the Galaxy S20 is $1000. The phone is available for Verizon with a 5G UW band support but lacks a microSD slot.</p></font></center>
+												<br>
+												<hr size=6>
+												<h2><center><font face="monaco">Galaxy S21, S21+, and S21 Ultra</h2>
+													<br>
+													<img src="https://m-cdn.phonearena.com/images/phones/81314-800/Samsung-Galaxy-S21.webp">
+													<br>
+													<p><font size=3><font face="monaco"><center>The Samsung Galaxy S21 specs are top-notch including a Snapdragon 888 chipset, 5G capability, 8GB RAM coupled with 128/256GB storage, and a 4000mAh battery. The phone sports a 6.2-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department, a triple-sensor setup is presented. The Samsung Galaxy S21 price starts at $800 for the base 128GB model.</p></font>
+														<br>
+														<hr size=6>
+														<h2>Galaxy S22, S22+, and S22 Ultra</h2>
+														<img src="https://m-cdn.phonearena.com/images/phones/83157-800/Samsung-Galaxy-S22.webp">
+											
+														<p><font size=3>The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed. The phone sports a 6.1-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department there is a Triple-sensor setup is present.</p></font>
+														<br>
+														<hr size=6>
+														<h2>Galaxy Z Flip4</h2>
+														<img src="https://m-cdn.phonearena.com/images/phones/83556-800/Samsung-Galaxy-Z-Flip-4.webp">
+														<p><font size=3>The Samsung Galaxy Z Flip 4 comes with 6.7-inch Dynamic AMOLED display with 120Hz refresh rate and Qualcomm Snapdragon 8+ Gen 1 processor. The outer display is 1.9-inch, the battery is 3700mAh and on the back there is Dual camera setup with 12MP main sensor.</p></font>
+														<br>
+														<hr size=6>
+														<h2>Galaxy ZFold 4</h2>
+														<img src="https://m-cdn.phonearena.com/images/phones/83568-800/Samsung-Galaxy-Z-Fold-4.webp">
+														<p><font size=3>The Samsung Galaxy Z Fold 4 is is the successor of the Galaxy Z Fold 3 and it comes with 6.2-inch outer display and big 7.6-inch Dynamic AMOLED display when unfolded. Specs also include Qualcomm Snapdragon 8+ Gen 1 processor, 4400mAh battery and Triple camera setup on the back with 50MP main sensor.</p></font>
+														<h1>Contact me using email for any questions related to this site and/or its contents</h1>
+														<font size=6><a href="mailto:begula44445@icloud.com">Email Me, Yajur Duddala</a></font>
+														<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+														<span class="material-symbols-outlined">
+mail
+</span>
+															
+														
+														
+														
+<button onclick="tatertot()">Tater tot images 4K</button>
+												
+									
+							
+					
+			
+				
+		
+	
+			
+<script async>
+	function tatertot() {
+	    setTimeout(() => {
+	     window.location.replace("https://shattereddisk.github.io/rickroll/rickroll.mp4")
+	    }, 3000);
+	}
+</script>
+		
+
+
+
+
+
+
+
+
+
